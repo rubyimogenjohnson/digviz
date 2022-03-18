@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "pop_est": 142257519.0, "continent": "Europe", "name": "Russia", "iso_a3": "RUS", "gdp_md_est": 3745000.0, "Longitude": 96.803318182901336, "Latitude": 61.961663494923002, "intake": "99300", "visa": "No change" }, "geometry": { "type": "Point", "coordinates": [ 96.803318182901336, 61.961663494923002 ] } },
+{ "type": "Feature", "properties": { "pop_est": 9549747.0, "continent": "Europe", "name": "Belarus", "iso_a3": "BLR", "gdp_md_est": 165400.0, "Longitude": 27.981352615448031, "Latitude": 53.506344794811142, "intake": "592", "visa": "No change" }, "geometry": { "type": "Point", "coordinates": [ 27.981352615448031, 53.506344794811142 ] } },
+{ "type": "Feature", "properties": { "pop_est": 38476269.0, "continent": "Europe", "name": "Poland", "iso_a3": "POL", "gdp_md_est": 1052000.0, "Longitude": 19.31101430844868, "Latitude": 52.148260219331867, "intake": "1294903", "visa": "Ukrainian nationals can enter without paperwork" }, "geometry": { "type": "Point", "coordinates": [ 19.31101430844868, 52.148260219331867 ] } },
+{ "type": "Feature", "properties": { "pop_est": 9850845.0, "continent": "Europe", "name": "Hungary", "iso_a3": "HUN", "gdp_md_est": 267600.0, "Longitude": 19.357628627745918, "Latitude": 47.199951171954268, "intake": "203222", "visa": "Ukrainian nationals can enter without paperwork" }, "geometry": { "type": "Point", "coordinates": [ 19.357628627745918, 47.199951171954268 ] } },
+{ "type": "Feature", "properties": { "pop_est": 3474121.0, "continent": "Europe", "name": "Moldova", "iso_a3": "MDA", "gdp_md_est": 18540.0, "Longitude": 28.410482790803279, "Latitude": 47.203676426067517, "intake": "82762", "visa": "Ukrainian nationals can enter without paperwork" }, "geometry": { "type": "Point", "coordinates": [ 28.410482790803279, 47.203676426067517 ] } },
+{ "type": "Feature", "properties": { "pop_est": 21529967.0, "continent": "Europe", "name": "Romania", "iso_a3": "ROU", "gdp_md_est": 441000.0, "Longitude": 24.943252494635377, "Latitude": 45.857101035738005, "intake": "85444", "visa": "Ukrainian nationals can enter without paperwork" }, "geometry": { "type": "Point", "coordinates": [ 24.943252494635377, 45.857101035738005 ] } },
+{ "type": "Feature", "properties": { "pop_est": 5445829.0, "continent": "Europe", "name": "Slovakia", "iso_a3": "SVK", "gdp_md_est": 168800.0, "Longitude": 19.507657147433708, "Latitude": 48.726711351727502, "intake": "153303", "visa": "Ukrainian nationals can enter without paperwork" }, "geometry": { "type": "Point", "coordinates": [ 19.507657147433708, 48.726711351727502 ] } }
+]
+}
